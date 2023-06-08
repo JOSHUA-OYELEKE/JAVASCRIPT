@@ -7,4 +7,4 @@ SCHOOL = "AltSchool"
 
 console.log(age)
 console.log(number)
-console.log(SCHOOl)
+console.log(SCHOOL)
