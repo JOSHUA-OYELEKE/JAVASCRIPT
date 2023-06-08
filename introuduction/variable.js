@@ -3,7 +3,7 @@ let age = 23
 const SCHOOL = "semicolon Africa"
 
 age =25
-SCHOOL = "AltSchool"
+//SCHOOL = "AltSchool"
 
 console.log(age)
 console.log(number)
